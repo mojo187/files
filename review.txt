@@ -1,0 +1,208 @@
+Falkheim Region -106,21
+Region: Correct
+Texture seams: 1
+Terrain errors: pretty much none
+Vertex shading: good
+T_Sky_TerrRockRE_RockGrp_03 dot caspering a tiny bit
+Flora_BM_holly_01 straightened
+Flora_BM_holly_02 same
+left side of the road had ~ buried bushes, right one had none
+straightened some kingbols and added a few more
+lifted some terrain a bit at the expense of fake terrain, added T_Sky_TerrRockRE_Rock_20 at one spot
+
+Falkheim Region -105,21
+Region: Correct
+Texture seams: 1
+Terrain errors: pretty much none
+Vertex shading: texture transition shading was lacking sometimes, some static shading was a bit too abundant at a few place
+T_Sky_TerrRockRE_Rock_02 deleted
+T_Sky_TerrRockRES_Rock_09 same
+Terrain_BM_snow_06 moved a bit
+T_Sky_TerrRockRE_RockFlt_12 deleted
+moved a tree and deleted a rockgroup to open a path to a player
+T_Sky_Flora_BushPine4Snow_01 bleeding
+T_Sky_Flora_BushPine1_01 moved a bit and lifted higher
+T_Sky_Flora_BushPine1_02 lifted up, 1 moved
+T_Sky_Flora_BushPine2_02 bleeding
+T_Sky_Flora_BushPine4_02 same
+T_Sky_TerrRockRE_RockGrp_02 lifted up a bit
+Flora_BM_holly_02 bleeding
+moved a pair of shrooms closer to a tree, same for T_Sky_Flora_BushPine3_02
+T_Sky_TerrRockRE_RockSml_07 deleted
+T_Sky_Flora_BushPine2_03 bleeding
+Terrain_BM_snow_04 rotated a bit
+T_Sky_Flora_Snowberry01 same
+T_Sky_TerrRockRE_Rock_32 moved to cover a static piece
+T_Sky_TerrRockRE_Rock_32 added another one to cover a gap
+T_Sky_Flora_TreePine4_01 bleeding
+
+Falkheim Region -104,21
+Region: Correct
+Texture seams: 3
+Terrain errors: pretty much none
+Vertex shading: good
+Flora_BM_holly_01 straightened up
+tossed a pair of T_Sky_Flora_BushPine3Dry_01 closer to the trees
+T_Sky_Flora_BushPine3_01 x2 same
+T_Sky_TerrRockRE_RockGrp_01 rotated and added T_Sky_TerrRockRE_RockSml_15 to cover a seam better
+flora_stoneflower_02 x2 straightened
+flora_stoneflower_01 bleeding
+T_Sky_Flora_TreePine1_03 floating
+T_Sky_Flora_BushPine4_02 bleeding
+added a couple more shrooms
+
+Midkarth Region -103,21
+Region: Correct
+Texture seams: 2
+Terrain errors: pretty much none
+Vertex shading: good
+T_Sky_TerrRockRE_RockGrp_01 buried under statics
+T_Sky_Flora_BushPine4Dry_02 bleeding, straightened
+flora_stoneflower01 x2 rotated
+T_Sky_Flora_BushPine1_01 bleeding
+T_Sky_Flora_Trollroot02 same
+T_Sky_Flora_BushPine2Dry_01 straightened
+T_Sky_TerrRockRE_RockGrp_01 rotated to cover a stretched static part
+Flora_BM_holly_01 straightened
+Flora_BM_holly_02 same
+T_Sky_TerrRockRE_Rock_17 added to cover a static part
+T_Sky_Flora_BushPine3Dry_02 tossed to another place
+T_Sky_Flora_BushPine4Dry_02 straightened
+T_Sky_TerrRockRE_Rock_17 lowered to not to bleed into ice
+*might look into adding more ice post-review
+
+
+Midkarth Region -105,22
+Region: Correct
+Texture seams: 6
+Terrain errors: some along the road
+Vertex shading: good
+Flora_BM_grass_03 bleeding
+Terrain_BM_snow_06 rotated
+Flora_BM_holly_05 rotated
+Flora_BM_holly_04 same
+T_Sky_Flora_BushPine4Snow_01 bleeding
+T_Sky_Flora_BushPine2Snow_01 straightened
+T_Sky_Flora_BksporeCp03 rotated
+T_Sky_Flora_BksporeCp01 same
+T_Sky_Flora_BushPine3Snow_02 moved
+
+
+Kilkreath Mountains Region -104,22
+Region: Correct
+Texture seams: 1
+Terrain errors:
+Vertex shading: good
+T_Sky_Flora_BushPine4Snow_02 bleeding
+T_Sky_Flora_KingBolSn02 straightened
+T_Sky_TerrRockRES_RockSml_12 moved to cover a seam
+T_Sky_Flora_BushPine4Snow_01 bleeding
+deleted a rockgroup for it to not to hinder a path to a cave
+T_Sky_Flora_BleakBlH04 bleeding
+bm_ex_ice_exit03_snow lowered, has a snow static bleeding through
+adamantium_spear rotated a bit
+T_SkyNor_DngBarr_U2Ing bleeding
+T_Nor_DrinkingHorn_01 rotated
+Terrain_BM_snow_02 lowered a bit
+
+
+Kilkreath Mountains Region -103,22
+Region: Correct
+Texture seams: 2
+Terrain errors: none
+Vertex shading: good
+ex_Snow_drift moved a bit
+T_Sky_TerrRockRES_Rock_11 added to cover static stretches
+Terrain_BM_snow_08 lifted up a bit
+T_Sky_TerrRockRES_Rock_04 moved to cover a seam better
+Flora_BM_holly_05 straightened
+T_Sky_Flora_BleakBlH03 bleeding
+
+
+Kilkreath Mountains Region -103,22
+Region: Correct
+Texture seams: 0
+Terrain errors: none
+Vertex shading: good
+T_Sky_TerrRockRE_Rock_18 deleted
+Flora_BM_holly_02 straightened
+T_Sky_Flora_GrassDry1_01 deleted, floating and micro-sized
+T_Sky_TerrRockRE_Rock_15 moved to cover a bleeding point
+T_Sky_Flora_BushPine3Dry_01 rotated
+rotated two stoneflowers
+T_Sky_Flora_BushPine4Dry_02 bleeding
+T_Sky_Flora_BleakBlH03 bleeding
+T_Sky_TerrRockRE_RockGrp_03 buried under terrain
+straightened 2 kingbols
+T_Sky_Flora_BushPine3Dry_03 straightened
+shuffled some bleeding ice
+*kelps, lakebed
+
+Kilkreath Mountains Region -105,23
+Region: Correct
+Texture seams: 2
+Terrain errors:
+Vertex shading: good
+T_Sky_Flora_BushPine4Snow_01 straightened
+Flora_BM_holly_05 same
+T_Sky_Flora_KingBolSn05 same
+T_Sky_Flora_TreePine1Snow_06 buried under a cliff (as well as a big group of bushes)
+T_Sky_Flora_BushPine1Dry_02 lifted up
+ex_Snow_drift lifted up to cover a static
+T_Sky_Flora_BushPine3Dry_03 bleeding
+Terrain_BM_snow_05 lifted up
+T_Sky_TerrRockRES_RockSnw_18 added to cover a static piece
+T_Sky_TerrRockRES_RockGrp_01 moved to cover a seam better
+T_Sky_TerrRockRES_Rock_23 same
+*check the traversability in-game
+
+Kilkreath Mountains Region -104,23
+Region: Correct
+Texture seams: 0
+Terrain errors:
+Vertex shading: good
+T_Sky_Flora_KingBolSn04 straightened
+Terrain_BM_snow_01 deleted
+Flora_BM_holly_05 straightened
+Terrain_BM_snow_09 x2 deleted
+T_Sky_TerrRockRES_RockGrp_03 moved to cover a seam better
+T_Sky_TerrRockRES_MtPeak_01 set a bit lower
+Terrain_BM_snow_03 rotated a bit
+T_Sky_Flora_BushPine4Snow_01 straightened
+
+
+Snowhawk Peak -104,23
+Region: Correct
+Texture seams: 
+Terrain errors:
+Vertex shading: good
+T_Sky_Flora_BushPine3Snow_02 moved
+contain_corpse00 floating
+contain_corpse20 same
+furn_bone_rib_01 1 bleeding, 1 floating
+furn_bone_01 x6 floating
+furn_bone_skull_01 x2 bleeding
+T_Sky_TerrRockRES_MtPeak_01 sunk a bit
+T_Sky_TerrRockRES_MtCliff_02 same
+Terrain_BM_snow_05 made smaller and bled a bit
+Terrain_BM_snow_03 same
+iron_helmet floating
+T_Nor_Orn_BattleAxe changed for T_Nor_Orn_WarAxe_01
+T_Sky_Flora_BushPine3Snow_02 moved 
+T_Sky_Flora_BushPine4Snow_01 deleted, placed another bush instead
+
+Kilkreath Mountains Region -102,23
+Region: Correct
+Texture seams: 1
+Terrain errors:
+T_Sky_Flora_BushPine2Snow_02 straightened
+T_Sky_Flora_KingBolSn03 same + moved
+T_Sky_TerrRockRES_RockPky_03 added to cover a seam better
+
+
+Kilkreath Mountains Region -101,23
+Region: Correct
+Texture seams: 0
+Terrain errors:
+fixed terrain level gap hidden inside a static
+lotta ice bleeding
