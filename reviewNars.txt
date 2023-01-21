@@ -1,0 +1,89 @@
+Clean: 
+Border matched: 
+
+Shipal Shin Region 9;-48
+Region: Correct
+Texture seams: 5
+Terrain errors: just a few
+Vertex shading: good but went through some a bit
+T_Mw_FloraTV_TreeZifa_01 caspering
+T_Mw_TerrRockSH_Rock1_15 and a few others: added to hide texture seams better
+T_Mw_TerrRockSH_Rock1_09 rotated for the same reason
+added a dirtpile to cover some inconvenient terrain near a tomb entrance
+added a few bushes more
+
+
+Shipal Shin Region 10;-48
+Region: Correct
+Texture seams: 0
+Terrain errors:
+Vertex shading: good
+changed a spot under a cliff from dirt to dirtrock
+added some more flora containers and bushes
+
+Shipal Shin Region 9;-49
+Region: Correct
+Texture seams: 0.5
+Terrain errors:
+Vertex shading: more edits up top the cliff
+T_Mw_TerrRockSH_Cliff01_05b 1 changed to 5b version, also caspering on corners
+com_basket_01_chpfood floating
+T_Mw_FloraTV_TreeGeran_02 bleeding
+T_Mw_FloraTV_SpoLotus02 deleted
+replaced one scrubspot on dirtrock 
+
+
+
+Shipal Shin Region 9;-50
+Region: Correct
+Texture seams: 2
+Terrain errors: none
+Vertex shading: good, just a few edits
+added some blisfoms
+
+
+Shipal Shin Region 10;-49
+Region: Correct
+Texture seams: 3
+Terrain errors: none
+Vertex shading: 
+T_Mw_TerrRockSH_Cliff02_07b changed for 07a
+T_Mw_TerrRockSH_Cliff02_04b for a
+T_Mw_FloraSH_Bush_10C floating
+what to add on a small clifftop?*
+
+Shipal Shin Region 10;-50
+Region: Correct
+Texture seams: 2
+Terrain errors: none
+Vertex shading: 
+added rocks to cover stretching road
+T_Mw_FloraSH_VeilUrn03 bleeding
+
+
+Shipal Shin Region 11;-50
+Region: Correct
+Texture seams: 0
+Terrain errors: 
+Vertex shading: some tweaks done
+added a few more trees
+a bit empty, but fair for a border cell i guess
+
+
+Vedas Plantation 9;-51
+Region: Correct
+Texture seams: 2
+Terrain errors: light tweaks a few spots of the road
+Vertex shading: missed on a small spot up a small clifftop, some edits through the road as well
+T_Mw_TerrRockSH_Rock2_15 added to cover some land stretching
+T_Mw_TerrRockSH_RockGrp2_07 changed for T_Mw_TerrRockSH_Rock2_08 for the same reason
+sunk terrain & road a bit near the rightmost house
+T_Mw_FloraSH_Drumpear06 caspering
+*plantation could use a light round of cluttering
+
+Shipal Shin Region 10;-51
+Region: Correct
+Texture seams: 0
+Terrain errors: 
+Vertex shading: some tweaks done
+T_Mw_TerrRockSH_Rock3_07 added a T_Mw_TerrRockSH_Rock3_07 to cover a road stretch
