@@ -86,4 +86,93 @@ Region: Correct
 Texture seams: 0
 Terrain errors: 
 Vertex shading: some tweaks done
-T_Mw_TerrRockSH_Rock3_07 added a T_Mw_TerrRockSH_Rock3_07 to cover a road stretch
+Added a T_Mw_TerrRockSH_Rock3_07 to cover a road stretch
+
+
+Shipal Shin Region 10;-51
+Region: Correct
+Texture seams: 1
+Terrain errors: 
+Vertex shading: some tweaks done
+
+Shipal Shin Region 11;-51
+Region: Correct
+Texture seams: 0
+Terrain errors: none
+Vertex shading: some tweaks done
+T_Mw_FloraSH_VeilUrn02 x3 lifted up a bit
+T_Mw_TerrRockSH_RockGrp2_05 added to hide a small terrain gap
+
+Shipal Shin Region 9;-52
+Region: Correct
+Texture seams: 0
+Terrain errors: none
+Vertex shading: some tweaks done
+T_Mw_TerrRockSH_Rock2_12 added to cover a gap
+T_Mw_TerrRockSH_Cliff02_05b swapped to 05a
+
+Shipal Shin Region 10;-52
+Region: Correct
+Texture seams: 0
+Terrain errors: none
+Vertex shading: good
+T_Mw_FloraSH_Drumpear01 caspering a tiny bit
+T_Mw_FloraSH_Drumpear02 x2 same
+T_Mw_FloraSH_VeilUrn02 lifted up a bit
+T_Mw_FloraSH_VeilUrn03 floating
+
+Shipal Shin Region 11;-52
+Region: Correct
+Texture seams: 0
+Terrain errors: small patch of terrain near a ruin
+Vertex shading: repainted shading between textures
+T_Mw_FloraSH_Tanna04 bleeding into a rock a tiny bit
+
+
+Ulumarano 9;-53
+Region: Correct
+Texture seams: 0
+Terrain errors: none
+Vertex shading: a few tweaks
+T_Mw_TerrRockSH_Cliff01_03a moved a tad bit forward
+moved geranium from the scrubland to the keep
+
+Shipal Shin Region 10;-53
+Region: Correct
+Texture seams: 0
+Terrain errors: none
+Vertex shading: a few tweaks
+added some flora
+
+*ruin name?
+
+Shipal Shin Region 11;-53
+Region: Correct
+Texture seams: 0
+Terrain errors: none
+Vertex shading: a few tweaks
+T_Mw_TerrRockSH_Cliff02_09b swapped for a
+T_Mw_TerrRockSH_Cliff02_08b same
+T_Mw_TerrRockSH_Cliff02_06b same (*T_Mw_TerrRockSH_Cliff02_05a search for these to see if i've occasionally changed all the refs)
+added some flora
+
+Shipal Shin Region 8;-53
+Region: Correct
+Texture seams: 1
+Terrain errors: none
+Vertex shading: missing at some spots
+sunk quite a few road edges
+furn_de_pathspear_04 floating
+filled a few emptier spots with some flora
+*ask about road textures
+
+Old Dren Plantation 8;-52
+Region: Correct
+Texture seams: 
+Terrain errors: tweaks over the clifftops
+Vertex shading: reshaded some textureborders, on the lakefloor as well
+T_Mw_TerrRockSH_Cliff01_09a piece was caspering a bit
+same with road edges
+
+**seafloor questions:how's shading? should it be that light on details (i think so as well)? SpoLotuses on the shores? Should I vertex the edges of water on the shoress?
+
