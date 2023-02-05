@@ -174,5 +174,138 @@ Vertex shading: reshaded some textureborders, on the lakefloor as well
 T_Mw_TerrRockSH_Cliff01_09a piece was caspering a bit
 same with road edges
 
-**seafloor questions:how's shading? should it be that light on details (i think so as well)? SpoLotuses on the shores? Should I vertex the edges of water on the shoress?
+Shipal Shin Region 8;-51
+Region: Correct
+Texture seams: 2
+Terrain errors: none
+Vertex shading: reshaded some textureborders, on the lakefloor as well
+T_MwCom_Var_Sk1DrmSpc07 rotated a little bit
+T_Imp_SetMw_X_Planks_01 lifted up a bit
+
+Shipal Shin Region 8;-50
+Region: Correct
+Texture seams: 3
+Terrain errors: none
+Vertex shading: reshaded some textureborders, on the lakefloor as well
+T_Mw_FloraSH_VeilUrn03 rotated a bit
+T_Mw_FloraSH_DrumpearTree_03 bleeding
+
+Coronati Basin Region 8;-49
+Region: Correct
+Texture seams: 
+Terrain errors: none
+Vertex shading: 
+where bushes? added blisfoms as well
+
+Coronati Basin Region 7;-49
+Region: Correct
+Texture seams: 2
+Terrain errors: none
+Vertex shading: good
+T_Mw_TerrRockSH_Rock1_04 deleted
+T_Mw_FloraSH_Bush_08C bleeding
+T_Mw_TerrRockTV_RockGrp_03 lifted up to cover a seam better
+T_Mw_TerrRockTV_CliffS_03c sunk a bit
+
+Coronati Basin Region 6;-49
+Region: Correct
+Texture seams: 1
+Terrain errors: none
+Vertex shading: some edits
+
+Coronati Basin Region 5;-49
+Region: Correct
+Texture seams: 0
+Terrain errors: none
+Vertex shading: some edits
+
+Shipal Shin Region 4;-49
+Region: Correct
+Texture seams: 0
+Terrain errors: mostly road edges and some minor ones
+Vertex shading: good
+hid a small terrain spot in the cliffs
+added a rockgrp and a bush around tomb entrance to cover terrain better
+added some rocks to cover highway texture gap better
+added some cacti
+
+Shipal Shin Region 4;-50
+Region: Correct
+Texture seams: 4 (last one is tricky and in Narsis itself, tried my best on covering it but not perfect still)
+Terrain errors: none
+Vertex shading: good
+added/moved/rotated some rocks to cover highway spots better
+T_Mw_FloraSH_Drumpear01 bleeding
+T_Mw_FloraSH_Drumpear06 caspering a tad bit
+
+
+Shipal Shin Region 4;-51
+Region: Correct
+Texture seams: 3
+Terrain errors: road stretching on edges, some minor misc stuff too
+Vertex shading: good
+T_De_SetHla_X_Building_02 had to move to cover a seam
+*** note for future work: make a road pass in adjacent cells to the west
+
+Shipal Shin Region 4;-52
+Region: Correct
+Texture seams: 1
+Terrain errors: a few spots
+Vertex shading: good
+added a bit more flora
+T_Mw_FloraSH_VeilUrn01 x2 rotated a little
+T_Mw_FloraSH_VeilUrn02 same
+T_Mw_FloraSH_Bush_08A bleeding
+T_Mw_TerrRockSH_RockGrp1_03 lifted up and moved to cover a seam
+
+Shipal Shin Region 4;-53
+Region: Correct
+Texture seams: 4
+Terrain errors: some edits
+added a bit more flora
+T_Mw_TerrRockSH_Rock1_01 added to cover steep a road corner better
+
+Shipal Shin Region 5;-53
+Region: Correct
+Texture seams: 3
+Terrain errors: a few spots, also road sides
+Vertex shading: some edits
+T_Mw_TerrRockSH_Rock1_12 added to cover a seam better
+T_Mw_FloraSH_VeilUrn01 lifted up
+T_Mw_FloraSH_Bush_12A bleeding
+changed some clifftops to correspondinb texture versions
+
+
+Castle Narsis 6;-53
+Region: Correct
+Texture seams: 2
+Terrain errors: 
+Vertex shading: good
+changed a texture on a tile to prevent such textureseams
+added some containers on two corners of castle narsis to hide the road texture
+
+Shipal Shin Region 7;-54
+Region: Correct
+Texture seams: 1
+Terrain errors: road corners
+Vertex shading: mostly good
+rotated a few pathspears to lift them up
+T_Mw_TerrRockSH_Cliff01_09a changed to b
+T_Mw_FloraSH_Bush_09C bleeding
+added blisfoms throughout last 4 cells
+T_Mw_Flora_ShroomTableR_06 moved a bit
+T_Mw_TerrRockSH_Rock1_15 added to cover a seam better
+T_Mw_FloraSH_VeilUrn03 bleeding
+added more bushes
+
+
+Shipal Shin Region 5;-52
+Region: Correct
+Texture seams: 2
+Terrain errors: none
+Vertex shading: mostly good
+T_Mw_TerrRockSH_Rock1_09 moved to cover highway texture. Added a few for the same reason
+
+
+**seafloor questions:should it be that light on details (i think so as well)? SpoLotuses on the shores? Should I vertex the edges of water on the shoress?
 
