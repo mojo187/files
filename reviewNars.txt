@@ -303,9 +303,54 @@ Shipal Shin Region 5;-52
 Region: Correct
 Texture seams: 2
 Terrain errors: none
-Vertex shading: mostly good
+Vertex shading: some fixes
 T_Mw_TerrRockSH_Rock1_09 moved to cover highway texture. Added a few for the same reason
 
+Narsis 6;-52
+Region: Correct
+Texture seams: 0
+Terrain errors: none
+Vertex shading: underwater fixes and that's it
+T_De_SetHla_X_Railing_01 moved with a balcony, bleeding
+light_de_streetlight_01_223 floating
+ex_hlaalu_buttress_03 x6 lifted up
+T_Mw_FloraSH_VeilUrn01 x2 sunk a bit
+
+
+Narsis Market Quarter 7;-52
+Region: Correct
+Texture seams: 0
+Terrain errors: none
+Vertex shading: underwater fixes and that's it
+T_De_SetHla_X_Railing_01 bleeding
+light_de_streetlight_01_223 x3 floating
+T_Mw_Flora_TempleDom01 bleeding
+T_Mw_Flora_BlueKanet_02 x2 bleeding
+ex_hlaalu_buttress_03 x2 lifted up
+
+Narsis 7;-51
+Region: Correct
+Texture seams: 0
+Terrain errors: none
+Vertex shading: underwater fixes and that's it
+***T_De_SetHla_X_BalconyNarsis_01 want a bit longer version, else it bleeds badly
+ex_hlaalu_buttress_03 lifted up
+flora_black_anther_01 bleeding
+
+Narsis Council Quarter 6;-51
+Region: Correct
+Texture seams: 0
+Terrain errors:
+Vertex shading: some tweaks
+Flora_plant_01/Hornlilly01 x4 floating
+T_Mw_Flora_Munzur_01 bleeding
+T_MwCom_Var_Bl1DriHla x2 floating
+ingred_comberry_01 x3 floating
+T_Mw_FloraSH_Drumpear01 bleeding
+
+ex_hlaalu_buttress_05 x3 raised up slightly
+furn_de_pathspear_01 bleeding
+T_Mw_TerrRockSH_Rock1_15 added for better highway coverage
 
 **seafloor questions:should it be that light on details (i think so as well)? SpoLotuses on the shores? Should I vertex the edges of water on the shoress?
 
