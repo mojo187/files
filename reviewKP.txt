@@ -1,0 +1,25 @@
+Clean: 
+Border matched: yes
+
+Dasek March Region -97;-51
+Region: Correct
+Texture seams: 1
+Terrain errors: 
+Vertex shading: 
+T_Cyr_TerrRockKP_Rock_07 added to cover a seam better
+T_Cyr_TerrRockKP_Rock_07 moved to cover a seam bit
+
+Dasek March Region -99;-52
+Region: Correct
+Texture seams: 2
+Terrain errors: 1-2 spots
+Vertex shading: some edits done
+T_Cyr_TerrRockKP_Rock_06 added to cover a seam better
+rearranged tantha nest a bit to cover a seam better
+same with a rockgroup nearby
+
+Four Towers -98;-52
+Region: Correct
+Texture seams: 
+Terrain errors: 
+Vertex shading: some edits done
