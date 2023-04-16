@@ -1,5 +1,54 @@
-Clean: 
-Border matched: yes
+Clean: Yes
+Border matched:
+General: had to download the kvetchi fences from assetpage still
+
+
+Kvetchi Pass Region -99,-50
+Region: Correct
+Texture seams: 2
+Texture shading good, a bit excessive at some places tho
+Terrain errors:
+T_Cyr_FloraKP_Bush_01 bleeding
+T_Cyr_Flora_Mandrake01 bleeding
+T_Cyr_TerrRockKP_Rock_04 and a small setup added to cover a seam
+T_Cyr_TerrRockKP_Rock_11 moved to cover a seam better
+
+Kvetchi Pass Region -98,-50
+Region: Correct
+Texture seams: 1
+Texture shading good
+Terrain errors: some small rough spots here and there
+T_Cyr_TerrRockKP_Rock_12 moved to cover a seam better
+T_Cyr_TerrRockKP_Cairn_03 same
+
+
+Kvetchi Pass Region -97,-50
+Region: Correct
+Texture seams: 0
+Texture shading: good
+Terrain errors: none
+some light elevation changes between textures and on the road
+
+Dasek Marsh Region -99,-51
+Region: Correct
+Texture seams: 3
+Texture shading: good
+Terrain errors: none
+a small rework near a bridge entrance to hide a seam
+T_Cyr_TerrRockKP_Rock_02 made bigger and moved to cover a seam
+T_Cyr_TerrRockKP_Rock_08 same
+added some flora
+
+
+
+Dasek Marsh Region -98,-51
+Region: Correct
+Texture seams: 1
+Texture shading: good
+Terrain errors: none
+T_Cyr_Flora_ElephantGrass_05 bleeding
+T_Cyr_FloraKP_Fern_02 x2 bleeding
+T_Cyr_TerrRockKP_Rock_07 added to cover a seam
 
 Dasek March Region -97;-51
 Region: Correct
@@ -20,6 +69,55 @@ same with a rockgroup nearby
 
 Four Towers -98;-52
 Region: Correct
+Texture seams: 1
+Terrain errors: none
+Vertex shading: good
+moved some kelp closer to each other
+T_Cyr_Flora_Lilypad_04 x4 floating
+T_Cyr_Flora_Lilypad_03 x2 same
+T_Cyr_Flora_Lilypad_01 x2 same
+slightly moved one of the towers to hide a seam
+covered some brick texture with a pair of rocks
+T_Cyr_FloraGC_Shrub_01 bleeding through stairs, made smaller
+
+Dasek Marsh Region -97;-52
+Region: Correct
+Texture seams: 1
+Terrain errors: none
+Vertex shading: good
+T_Cyr_Flora_Lilypad_01 x3 floaitng
+T_Cyr_Flora_Lilypad_02 x3 floating
+T_Cyr_Flora_Lilypad_03 x2 floating
+T_Cyr_Flora_Lilypad_04 floating
+T_Cyr_FloraKP_Fern_01 bleeding
+T_Cyr_FloraKP_Fern_02 same
+T_Cyr_FloraKP_Fern_03 same
+T_Cyr_TerrRockKP_Rock_09 added to cover a seam
+
+Dasek Marsh Region -97;-52
+Region: Correct
 Texture seams: 
-Terrain errors: 
-Vertex shading: some edits done
+Terrain errors: a few bumps
+Vertex shading: some edits
+sunk the sand a bit deeper
+T_Cyr_TerrRockKP_Rocks_03 added to cover a seam better
+*cell and cell below not quite bordermatched to the west
+T_Cyr_Flora_ElephantGrass_04 floating
+T_Cyr_Flora_Lilypad_05 floating
+T_Cyr_Flora_Lilypad_04 x2 same
+
+Dasek Marsh Region -97;-52
+Region: Correct
+Texture seams: 1
+Terrain errors: none
+Vertex shading: some edits
+T_Imp_SetHarbor_I_GalleonDoor01 x3 handle bleeding
+T_Imp_SetHarbor_I_GalleonDoor01 x2 added
+T_Cyr_FloraKP_Fern_02 bleeding
+T_Cyr_TerrRockKP_Rock_11 added to cover a seam and moved T_Glb_Flora_Mangrove_03
+T_Cyr_FloraKP_Fern_03 bleeding
+T_Cyr_FloraKP_Fern_01 same, sunk a rock underneath a bit
+T_Cyr_TerrRockKP_Rock_11 moved a bit
+T_Cyr_Flora_ElephantGrass_04 bleeding
+*solve the doors issue
+
