@@ -1,0 +1,45 @@
+Clean: Yes
+Border matched:
+
+
+Shipal-Shin Region -16,-37
+Region: Correct
+Texture seams: 3
+Texture shading: good but some spots had wrong color settings
+Terrain errors:some rough spots, also flat spots under some cliffs
+T_Mw_FloraSH_BlisFom02 caspering
+T_Mw_FloraSH_BlisFom03 same
+T_Mw_TerrRockSH_Rock1_15 moved to cover a terrain stretch
+T_Mw_TerrRockSH_Rock1_12 moved to cover a seam better
+T_Mw_FloraSH_Bush_10C moved, small area was too dense on bushes
+flora_plant_05 changed for a spiny lloramor. these look nice but aren't used anywhere in SH if i'm not mistaken
+T_Mw_FloraSH_Bush_02 floating
+T_Mw_FloraOW_TreeRootSmall_06 moved
+T_Mw_FloraOW_TreeRootSmall_05 x2 bleeding through trunk
+T_Mw_FloraOW_Rockbrst01 floating
+T_Mw_TerrRockSH_Cliff01_05a changed for b version
+
+
+Shipal-Shin Region -15,-37
+Region: Correct
+Texture seams: 1
+Texture shading: good but some statics didn't have it
+Terrain errors: road edits, some rough spots, very rough terrain up the clifftops
+T_Mw_FloraOW_Rockbrst01 moved on a rock
+T_Mw_FloraOW_Cupling01 moved a bit
+T_Mw_TerrRockSH_CaveEntr_01 moved a bit forward to cover rock clipping
+T_Mw_TerrRockSH_Cliff01_07b floating
+T_Mw_TerrRockSH_Rock1_15 added to cover terrain stretch
+T_Mw_TerrRockSH_Rock1_15 added to cover a seam
+
+Shipal-Shin Region -14,-37
+Region: Correct
+Texture seams: 3
+Texture shading: good but lacking under some statics
+Terrain errors: very jagged on western side of the clifftp
+*not quite bordermatched with OW_02 here -- one place is just flat on the clifftop and lacks shading, meant to be a wip one it seems
+T_Mw_TerrRockSH_Rock1_13 moved to cover a seam better
+T_Mw_TerrRockSH_Rock1_15 moved to cover a seam better
+T_Mw_Light_Glowshrooms_128 added
+
+T_Mw_TerrRockSH_Cliff01_07b caspering
