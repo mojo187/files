@@ -1,0 +1,60 @@
+Clean: Yes
+Border matched: might need a bit more polishing at some sides
+
+
+Othreleth Woods Region -11,-39
+Region: Correct
+Texture seams: 4
+Texture shading: cool
+Terrain errors: good
+T_Mw_TerrRockSH_Rock1_04 rotated and made a bit bigger to cover a seam better
+T_Mw_FloraOW_TreeMed_04 same
+T_Mw_Flora_BlisterSpr02 bleeding
+T_Mw_FloraSH_VeilUrn03 floating
+
+Othreleth Woods Region -10,-39
+Region: Correct
+Texture seams: 2
+Texture shading: cool
+Terrain errors: good
+T_Mw_TerrRockOW_Rock1_13 rotated to cover a seam better
+T_Mw_TerrRockSH_Rock1_11 same
+T_Mw_Flora_ShroomTableO_03 lifted up a bit
+
+Othreleth Woods Region -9,-39
+Region: Correct
+Texture seams: 1
+Texture shading: cool
+Terrain errors: some minor bumps
+\T_Mw_TerrRockOW_Rock1_06 added to cover a seam and road texture under the bridge
+T_Mw_TerrRockOW_Rock1_11 rotated to cover a seam better
+
+Shipal-Shin Region -11,-40
+Region: Correct
+Texture seams: 1
+Texture shading: cool
+Terrain errors: good
+ex_hlaalu_dsteps_03 floating, lined x2 up as well
+
+Reluran -10,-40
+Region: Correct
+Texture seams: 2
+Texture shading: cool
+Terrain errors: minor bumps and pits
+T_Mw_TerrRockOW_Rock1_06 lifted up a tiny bit
+crate_01_random_pos added to cover a microseam
+ex_hlaalu_dsteps_03 x2 sunk down a bit
+crate_01_random_pos floating
+* no house poles?
+
+
+Reluran -9,-40
+Region: Correct
+Texture seams: 3
+Texture shading: cool
+Terrain errors: good
+T_Mw_FloraOW_SightBlocker_04 bleeding
+T_De_SetHla_X_Bridge_04 floating
+\T_Mw_TerrRockSH_Rock1_12 moved to cover a seam
+*T_Mw_TerrRockSH_Rock1_14 same, 
+edited the textures near the northern entrance to cover seams
