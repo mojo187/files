@@ -1,0 +1,163 @@
+Clean: Yes
+Border matched: has a Pit on the west with SH_13. Mothman is progressing through reviewing it so postponed the fix till merge
+
+Abecean Sea Region -132, -53
+Region: Correct
+Texture seams: 
+Texture shading:
+Terrain errors:
+T_Glb_Flora_Kelp2_03 bleeding a bit
+Flora_kelp_03 same
+T_Cyr_TerrRockGC_Rock_08 clipping through hull a tad bit
+T_Cyr_TerrRockGC_Rock_06 floating
+
+Abecean Sea Region -131, -53
+Region: Correct
+Texture seams: 
+Texture shading:
+Terrain errors:
+T_Glb_Fauna_Coral_01 bleeding
+T_Glb_Fauna_Coral_06 same
+
+Abecean Sea Region -130, -53
+Region: Correct
+Texture seams: 
+Texture shading:
+Terrain errors:
+T_Cyr_TerrRockGC_Rock_06 floating
+T_Glb_Mine_RedCoral01 caspering
+T_Glb_Flora_Kelp2Group_01 floating
+T_Glb_Flora_Kelp1Group_01 x2 added
+T_Glb_Fauna_Coral_04 x1 floating x1 bleeding
+
+Abecean Sea Region -131, -53
+Region: Correct
+Texture seams: 
+Texture shading:
+Terrain errors: 
+T_Glb_Fauna_Coral_04 bleeding
+T_Glb_Fauna_Coral_05 same
+T_Glb_Flora_Kelp1Group_02 bleeding
+T_Glb_Flora_Kelp2Group_01 floating
+added a bit more kelp
+
+Abecean Sea Region -131, -53
+Region: Correct
+Texture seams: 
+Texture shading:
+Terrain errors: 
+T_Glb_Flora_Kelp1Group_01 rotated
+T_Glb_Flora_Kelp2Group_01 deleted, giga floating on steep surface
+
+Abecean Sea Region -131, -54
+Region: Correct
+Texture seams: 
+Texture shading:
+Terrain errors: 
+edite a rocky slope a tiny bit
+
+Abecean Sea Region -130, -54
+Region: Correct
+Texture seams: 
+Texture shading:
+Terrain errors: 
+T_Glb_Fauna_Coral_05 bleeding
+kollop_01_pearl sunk deeper
+T_Glb_Fauna_Coral_06 same
+T_Glb_Flora_Kelp2Group_01 floating
+
+Vabrisael -129, -54
+Region: Correct
+Texture seams: 
+Texture shading:
+Terrain errors: some micro edits around the ruin
+T_Glb_Flora_Kelp3_04 straightened
+T_Glb_Flora_Kelp2Group_01 same
+T_Ayl_DngRuin_I_Block_06 lifted up a bit
+
+Abecean Sea Region -128, -54
+Region: Correct
+Texture seams: 
+Texture shading:
+Terrain errors: 
+T_Glb_Flora_Kelp1Group_02 planted instead of kelp3 on a near-surface spot
+T_Glb_Flora_Kelp2Group_01 straightened
+T_Glb_Fauna_Coral_04 bleeding
+
+
+Abecean Sea Region -132, -55
+Region: Correct
+Texture seams: 
+Texture shading:
+Terrain errors: 
+T_Glb_Flora_Kelp2Group_01 bledding
+
+Abecean Sea Region -131, -55
+Region: Correct
+Texture seams: 
+Texture shading:
+Terrain errors: 
+
+Abecean Sea Region -130, -55
+Region: Correct
+Texture seams: 
+Texture shading:
+Terrain errors: 
+T_Cyr_Flora_Bloodlill01 1 bleeding 1 rotated
+T_Cyr_Flora_Goldenrod02 x2 bleeding
+
+Abecean Sea Region -129, -55
+Region: Correct
+Texture seams: 
+Texture shading:
+Terrain errors: 
+T_Glb_Mine_RedCoral01 rerotated a bit
+added some corals
+
+Abecean Sea Region -128, -55
+Region: Correct
+Texture seams: 
+Texture shading:
+Terrain errors: 
+
+Abecean Sea Region -128, -56
+Region: Correct
+Texture seams: 
+Texture shading:
+Terrain errors: 
+T_Glb_Flora_Kelp1Group_02 bleeding
+
+Abecean Sea Region -128, -57
+Region: Correct
+Texture seams: 
+Texture shading:
+Terrain errors: 
+T_Glb_Fauna_Coral_05 tiny bleeding
+T_Glb_Flora_Kelp1Group_01 bleeding
+
+Abecean Sea Region -128, -58
+Region: Correct
+Texture seams: 
+Texture shading:
+Terrain errors:
+
+Abecean Sea Region -132, -56
+Region: Correct
+Texture seams: 
+Texture shading:
+Terrain errors:
+changed old kelp in favor of new kelpgroups
+T_Glb_Flora_Kelp3_03 bleeding
+T_Glb_Fauna_Coral_04 bleeding
+T_Glb_Fauna_Coral_05 same
+
+Abecean Sea Region -131, -56
+Region: Correct
+Texture seams: 
+Texture shading:
+Terrain errors:
+T_Glb_Flora_Kelp1Group_01 bleeding
+culled a kelp2group1 cause it's bleeding and tilted
+T_Glb_Mine_RedCoral01 bleeding a bit
+T_Cyr_Flora_Goldenrod02 microbleeding
+T_Cyr_Flora_Goldenrod01 bleeding
